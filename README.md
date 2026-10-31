@@ -154,17 +154,17 @@ A deep learning project for classifying brain MRI images using transfer learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikin2911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&icon_color=C6A98D&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rikin-2911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&icon_color=C6A98D&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikin2911&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&langs_count=8" height="165" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rikin2911&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D&sideLabels=E8E3DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="Contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikin-2911&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&langs_count=8" height="165" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikin2911&bg_color=0D1117&color=E8E3DB&line=C6A98D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
+<img src="https://streak-stats.demolab.com?user=rikin-2911&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D&sideLabels=E8E3DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="Contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikin-2911&bg_color=0D1117&color=E8E3DB&line=C6A98D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
@@ -174,7 +174,7 @@ A deep learning project for classifying brain MRI images using transfer learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rikin2911/rikin2911/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/rikin-2911/rikin-2911/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
