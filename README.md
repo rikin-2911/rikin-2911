@@ -1,8 +1,7 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101010,45:29231F,100:514233&text=Rikin%20Pithadia&fontColor=F4EFE7&fontSize=52&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%7C%20%20INTELLIGENT%20SYSTEMS&descColor=D6C1A8&descSize=13&descAlignY=63&animation=fadeIn&section=header" width="100%" alt="Rikin Pithadia profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101010,45:29231F,100:514233&text=Rikin%20Pithadia&fontColor=F4EFE7&fontSize=52&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%7C%20%20BUILDING INTELLIGENT%20SYSTEMS&descColor=D6C1A8&descSize=13&descAlignY=63&animation=fadeIn&section=header" width="100%" alt="Rikin Pithadia profile banner"/>
 
-# Rikin Pithadia
 
 ### Building intelligent systems through research, algorithms & engineering.
 
