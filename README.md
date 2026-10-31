@@ -288,10 +288,6 @@ Performance & deployment
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rikin-2911&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D&sideLabels=E8E3DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="GitHub streak"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=rikin-2911&theme=dark&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D" width="90%" alt="GitHub contribution streak"/>
 
 </div>
