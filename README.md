@@ -1,168 +1,297 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:101010,45:29231F,100:514233&text=Rikin%20Pithadia&fontColor=F4EFE7&fontSize=52&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%7C%20%20INTELLIGENT%20SYSTEMS&descColor=D6C1A8&descSize=13&descAlignY=63&animation=fadeIn&section=header" width="100%" alt="Rikin Pithadia profile banner"/>
+
 # Rikin Pithadia
 
-<div align="center">
+### Building intelligent systems through research, algorithms & engineering.
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101010,50:211D1B,100:382B24&text=RIKIN%20PITHADIA&fontColor=F5F0E8&fontSize=48&fontAlignY=43&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%94%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=12&descColor=C6A98D&descAlignY=65" width="100%" alt="Neural-inspired Rikin Pithadia banner"/>
+Machine Learning · Generative AI · Agentic Systems · Computer Vision
 
-### Engineering intelligence. Building what comes next.
+<br/>
 
-*Machine Learning · Generative AI · Agentic Systems · Computer Vision*
+<a href="https://rikin2911-portfolio-ai-ml.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20Portfolio-C6A98D?style=for-the-badge&logo=vercel&logoColor=181818&labelColor=181818"/>
+</a>
+<a href="https://github.com/rikin-2911">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[Portfolio](https://rikin2911-portfolio-ai-ml.vercel.app/) · [GitHub](https://github.com/rikin2911)
+<br/><br/>
 
 </div>
 
 ---
 
-### 01 — About
+<h2 align="center">01 &nbsp; / &nbsp; About Me</h2>
 
-I'm an AI/ML Engineer passionate about building intelligent systems that connect research, algorithms and real-world engineering.
+I'm an **AI/ML Engineer** interested in building intelligent, scalable and production-oriented systems.
 
-I enjoy exploring the complete machine learning lifecycle — from understanding mathematical foundations and developing models to designing agentic architectures, optimizing inference and deploying practical applications.
+I enjoy working across the machine learning lifecycle - from understanding mathematical foundations and developing models to designing agentic architectures, optimizing inference and deploying practical applications.
 
-**Areas of interest**
+My approach combines experimentation, software engineering and curiosity about how intelligent systems actually work.
 
-- Machine Learning & Deep Learning
-- Generative AI & Agentic Systems
-- LLMs, RAG & Model Evaluation
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**WHAT I BUILD**
+
+- Machine Learning Systems
+- LLM & Agentic Applications
+- Retrieval-Augmented Generation
+- Computer Vision Solutions
+- Production AI Backends
+
+</td>
+<td width="50%" valign="top">
+
+**WHAT I EXPLORE**
+
 - ML Systems & MLOps
-- Computer Vision & Edge AI
+- AI Agents & MCP
+- Model Optimization
 - Scientific Machine Learning
+- Robotics & Edge AI
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 02 — Technology
+<h2 align="center">02 &nbsp; / &nbsp; Education</h2>
+
+<table>
+<tr>
+<td width="75%" valign="top">
+
+**Indian Institute of Technology Guwahati**
+
+B.S (Honours) - Data Science & Artificial Intelligence
+
+</td>
+<td align="right" valign="top">
+
+**7.75 / 10.00**
+
+</td>
+</tr>
+<tr>
+<td width="75%" valign="top">
+
+**Government Engineering College, Gandhinagar**
+
+B.Tech - Mechanical Engineering
+
+Minor - Internet of Things (IoT)
+
+</td>
+<td align="right" valign="top">
+
+**7.97 / 10.00**
+
+**10.00 / 10.00** (Minor)
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">03 &nbsp; / &nbsp; Technical Arsenal</h2>
 
 <div align="center">
 
-**LANGUAGES**
+**PROGRAMMING**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,sql&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" alt="Python C++ Bash"/>
 
-**ML & DEEP LEARNING**
+**MACHINE LEARNING & DEEP LEARNING**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML technologies"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch TensorFlow OpenCV"/>
 
-<img src="https://img.shields.io/badge/JAX-202020?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-202020?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/JAX-Framework-242424?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-ML-242424?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 
 **GENERATIVE AI & AGENTIC SYSTEMS**
 
-<img src="https://img.shields.io/badge/LangChain-202020?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging_Face-202020?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Gemini-202020?style=flat-square&logo=googlegemini&logoColor=8E75FF"/>
+<img src="https://img.shields.io/badge/LangChain-242424?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-242424?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Gemini-242424?style=flat-square&logo=googlegemini&logoColor=8E75FF"/>
 
-**BACKEND & MLOPS**
+**BACKEND & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,postgres&theme=dark" alt="Backend and infrastructure"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,postgres&theme=dark" alt="FastAPI Docker Git GitHub Linux PostgreSQL"/>
 
-<img src="https://img.shields.io/badge/Pinecone-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLflow-202020?style=flat-square&logo=mlflow&logoColor=0194E2"/>
-<img src="https://img.shields.io/badge/FAISS-202020?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-242424?style=flat-square&logo=mlflow&logoColor=0194E2"/>
 
 **SCIENTIFIC ML & ROBOTICS**
 
-<img src="https://img.shields.io/badge/Diffrax-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/Equinox-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/Neural_ODEs-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/ROS_2-202020?style=flat-square"/>
-<img src="https://img.shields.io/badge/YOLO-202020?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neural%20ODEs-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/PINNs-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/Diffrax-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/Equinox-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS%202-242424?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-242424?style=flat-square"/>
 
 </div>
 
 ---
 
-### 03 — Selected Projects
+<h2 align="center">04 &nbsp; / &nbsp; Selected Projects</h2>
 
-**01 / Agentic CAD System**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Natural Language → Agentic Tool Orchestration → 3D Geometry*
+<h3>01. Agentic CAD System</h3>
 
-An AI-powered CAD application that converts natural-language instructions into parametric 3D designs.
+**Natural Language → 3D Design**
 
-- Multi-step agent orchestration using LangGraph.
-- Custom MCP server using FastMCP.
-- Parametric modeling using CadQuery.
-- Geometry validation and STEP/STL export.
-- LLM tracing and evaluation using LangSmith.
+An intelligent CAD system that converts natural-language instructions into parametric 3D models.
 
-`Python` `LangGraph` `FastAPI` `MCP` `CadQuery` `Gemini`
+- LangGraph agent orchestration
+- Custom MCP server using FastMCP
+- CadQuery geometry generation
+- Geometry validation
+- STEP / STL export
 
-**52.46s** — Average end-to-end latency across 10 experiments.
+**52.46s average latency** across 10 experiments.
 
-**02 / Edge AI Weed Detection**
+`Python` `LangGraph` `MCP` `FastAPI`
 
-*Computer Vision · Segmentation · On-device Inference*
+</td>
+<td width="50%" valign="top">
 
-An agricultural computer vision system for weed detection and segmentation.
+<h3>02. Edge AI Detection</h3>
 
-- Trained YOLOv11n-seg on 800+ self-captured images.
-- 0.80 Box mAP@50.
-- 0.78 Mask mAP@50.
-- Deployed on NVIDIA Jetson Nano.
-- Approximately 8 FPS on-device inference.
+**Computer Vision → Edge Deployment**
 
-`Python` `PyTorch` `YOLOv11` `OpenCV` `Jetson Nano`
+An agricultural vision system for weed detection and segmentation.
 
-**03 / Multimodal Agentic RAG**
+- YOLOv11n-seg model
+- 800+ self-captured images
+- 0.80 Box mAP@50
+- 0.78 Mask mAP@50
+- NVIDIA Jetson Nano deployment
 
-*Document Intelligence · Retrieval · LLM Orchestration*
+**8 FPS** on-device inference.
 
-A document intelligence application combining retrieval-augmented generation and agentic workflows.
+`PyTorch` `YOLO` `OpenCV` `Jetson`
 
-- LangGraph-based agent orchestration.
-- Vector similarity search using Pinecone.
-- FastAPI backend and document ingestion.
-- Gemini-powered contextual question answering.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Python` `LangChain` `LangGraph` `FastAPI` `Pinecone` `Gemini`
+<h3>03. Multimodal Agentic RAG</h3>
 
-**04 / Brain Tumor MRI Classification**
+**Documents → Intelligent Retrieval**
 
-*Deep Learning · Medical Image Classification*
+A document intelligence application combining multimodal processing and agentic retrieval.
 
-A deep learning project for classifying brain MRI images using transfer learning.
+- LangGraph workflows
+- Pinecone vector retrieval
+- FastAPI backend
+- Gemini-powered question answering
+- Document ingestion pipelines
 
-- Implemented a ResNet18-based classification model.
-- Developed training and evaluation pipelines using PyTorch.
-- Achieved approximately 88% test accuracy.
+`LangChain` `LangGraph` `Pinecone` `Gemini`
 
-`Python` `PyTorch` `ResNet18` `Computer Vision`
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Brain Tumor MRI Classification</h3>
+
+**Deep Learning → Medical Imaging**
+
+An image classification system using transfer learning.
+
+- ResNet18 architecture
+- PyTorch training pipeline
+- MRI image classification
+- Model evaluation and validation
+
+**88% test accuracy.**
+
+`Python` `PyTorch` `ResNet18`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 04 — Engineering Mindset
+<h2 align="center">05 &nbsp; / &nbsp; How I Think About Engineering</h2>
 
 <div align="center">
 
-**Research → Experimentation → Engineering → Deployment**
+<table>
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+### Understand
+
+Mathematics & fundamentals
+
+</td>
+<td align="center" width="25%">
+
+**02**
+
+### Experiment
+
+Models & algorithms
+
+</td>
+<td align="center" width="25%">
+
+**03**
+
+### Engineer
+
+Systems & architecture
+
+</td>
+<td align="center" width="25%">
+
+**04**
+
+### Optimize
+
+Performance & deployment
+
+</td>
+</tr>
+</table>
+
+*Good engineering is not just about making a model work. It's about understanding why it works and making it reliable.*
 
 </div>
 
-- Understand the mathematics behind the models.
-- Build reproducible and maintainable systems.
-- Measure performance through meaningful metrics.
-- Optimize models for real-world constraints.
-- Turn experimental ideas into practical applications.
-
 ---
 
-### 05 — GitHub Analytics
+<h2 align="center">06 &nbsp; / &nbsp; GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikin-2911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&icon_color=C6A98D&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rikin-2911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&icon_color=C6A98D&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikin-2911&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&langs_count=8" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikin-2911&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A98D&text_color=E8E3DB&langs_count=8" height="170" alt="Top programming languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rikin-2911&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D&sideLabels=E8E3DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=rikin-2911&hide_border=true&background=0D1117&ring=C6A98D&fire=C6A98D&currStreakLabel=C6A98D&sideLabels=E8E3DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="90%" alt="GitHub streak"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikin-2911&bg_color=0D1117&color=E8E3DB&line=C6A98D&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
@@ -170,7 +299,7 @@ A deep learning project for classifying brain MRI images using transfer learning
 
 ---
 
-### 06 — Contribution Activity
+<h2 align="center">07 &nbsp; / &nbsp; Contribution Activity</h2>
 
 <div align="center">
 
@@ -180,21 +309,27 @@ A deep learning project for classifying brain MRI images using transfer learning
 
 ---
 
-### 07 — Connect
+<h2 align="center">08 &nbsp; / &nbsp; Connect With Me</h2>
 
 <div align="center">
 
 <a href="https://github.com/rikin2911">
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://rikin2911-portfolio-ai-ml.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-181818?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-181818?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rikin-pithadia-20b94729b/">
+<img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/rikin_2911/">
+<img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
 *Curiosity drives research. Engineering turns ideas into reality.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:382B24,100:101010&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:514233,100:101010&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
